@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a50ff3b-a176-47c4-b6a9-8647e55bc298" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/admin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/documents/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/embeds/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/search/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/snippets/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wagtail/users/.gitignore" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,10 +74,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1120" />
-    <option name="height" value="628" />
+    <option name="x" value="202" />
+    <option name="y" value="202" />
+    <option name="width" value="1400" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,7 +106,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -149,18 +139,17 @@
       <workItem from="1561018038562" duration="4334000" />
       <workItem from="1561439552916" duration="1017000" />
       <workItem from="1561447292133" duration="6621000" />
-      <workItem from="1561470317221" duration="1094000" />
+      <workItem from="1561470317221" duration="1626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19385000" />
+    <option name="totallyTimeSpent" value="19917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19269341" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1802949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,7 +163,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34501347" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36260623" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -185,6 +174,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/blog" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
