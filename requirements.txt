@@ -4,7 +4,7 @@ certifi==2019.6.16
 chardet==3.0.4
 colorama==0.4.1
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.20
 django-modelcluster==4.4
 django-taggit==0.24.0
 django-treebeard==4.3
